@@ -1,2 +1,2 @@
 # demo
-Sample Django site
+Sample Django site showing the structure of a django web app
